@@ -1,5 +1,5 @@
 #include <iostream>
 using namespace std;
 init main() {
-	count<<"Hello Git"<<end1;
+	count<<"Comment was added"<<end1;
 }
